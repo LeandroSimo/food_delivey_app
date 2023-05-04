@@ -14,7 +14,7 @@ O projeto foi construindo a partir do seguinte template: <a>https://dribbble.com
 
 # Configurações
 
-Antes de rodar o projeto, verifique as seguintes configurações:
+Antes de rodar o projeto, verifique a versão do Google Services do seu emulador e as seguintes configurações:
 
 - https://firebase.google.com/docs/android/setup?hl=pt-br
 - https://developer.android.com/jetpack/androidx/migrate?hl=pt-br
@@ -22,14 +22,14 @@ Antes de rodar o projeto, verifique as seguintes configurações:
 
 # Clone e execute
 
-Para clonar e executar esse app você precisará do [Git](https://git-scm.com) + [Dart][dart] + [Flutter][flutter] instalados no seu computador.
+Para clonar e executar esse app você precisará do [Git][git] + [Dart][dart] + [Flutter][flutter] instalados no seu computador.
 
 ```bash
 # Clone esse repositório
-$ git clone https://github.com/LeandroSimo/houseasy-teste-frontend.git
+$ git clone https://github.com/LeandroSimo/food_delivey_app.git
 
 # Entre no repositório
-$ cd houseasy-teste-frontend
+$ cd food_delivey_app
 
 # Instale as dependências
 $ flutter pub get
@@ -39,5 +39,6 @@ $ flutter run
 
 ```
 
+[git]: https://git-scm.com
 [flutter]: https://flutter.dev/
 [dart]: https://dart.dev/
