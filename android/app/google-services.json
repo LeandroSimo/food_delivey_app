@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358072654727",
+    "project_id": "foodies-68ce6",
+    "storage_bucket": "foodies-68ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358072654727:android:1c53344ded56bdb9085122",
+        "android_client_info": {
+          "package_name": "br.com.teste_houseasy.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358072654727-5q1t1q4hhl7daaeibo8td6jeq6iqgu98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLnzUdogOKQ15ICc1PBtdEkdTVpg-za4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358072654727-5q1t1q4hhl7daaeibo8td6jeq6iqgu98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

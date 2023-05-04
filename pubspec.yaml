@@ -1,0 +1,43 @@
+name: food_delivery_app
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+
+dependencies:
+  bloc: ^8.1.1
+  cloud_firestore: ^4.5.3
+  delayed_display: ^2.0.0
+  equatable: ^2.0.5
+  firebase_auth: ^4.4.2
+  firebase_core: ^2.10.0
+  firebase_storage: ^11.1.1
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  flutter_screenutil: ^5.7.0
+  flutter_zoom_drawer: ^3.0.4+1
+  google_fonts: ^4.0.3
+  google_sign_in: ^6.1.0
+  lottie: ^2.3.2
+  readmore: ^2.2.0
+  rive: ^0.10.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - "assets/"
+    - "assets/burger/"
+    - "assets/category/"
+    - "assets/icons/"
+    - "assets/welcome/"
+    - "assets/riv/"
+    - "assets/lottie/"
